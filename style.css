@@ -75,3 +75,13 @@ body {
     font-size: 14px;
     color: #414040;
 }
+
+.assinatura a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.assinatura a:hover {
+    color: rgb(245, 0, 0);
+    text-decoration: underline;
+}
